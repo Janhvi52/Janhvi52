@@ -30,7 +30,7 @@
 <a href="https://medium.com/@janhvi52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@janhvi52" height="30" width="40" /></a>
 </p>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<!-- <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -54,3 +54,4 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
+ -->
