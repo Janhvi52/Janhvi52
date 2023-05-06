@@ -2,6 +2,7 @@
 <img src="https://user-images.githubusercontent.com/97719669/236609612-e5b8771c-8374-48ad-b319-2349388a1014.png"/>
 
 
+<h2 align= "center"> Welcome to my GitHub profile, where my code is as beautiful as I wish my face was </h2>
 
 
 
