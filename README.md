@@ -23,7 +23,7 @@
 "Hi there! I'm the wizard behind the code. Or maybe I'm just a regular person who's really good at Googling stuff."
 ```
 
-<h3>Let's connect and discuss how we can collaborate on a project or how I can contribute to your organization or maybe we can discuss some chronicles or novels!</h3>
+<h2 align="center">Let's connect and discuss how we can collaborate on a project or how I can contribute to your organization or maybe we can discuss some chronicles or novels!</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/janhvi-singh-539989227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janhvi-singh-539989227" height="30" width="40" /></a>
 <a href="[https://www.instagram.com/janhvi.__.singh/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janhvi.__.singh" height="30" width="40" /></a>
