@@ -2,8 +2,25 @@
 <img src="https://user-images.githubusercontent.com/97719669/236609612-e5b8771c-8374-48ad-b319-2349388a1014.png"/>
 
 
-<h2 align= "center"> Welcome to my GitHub profile, where my code is as beautiful as I wish my face was </h2>
+<h2 align= "center"> Welcome to my GitHub profile, where my code is as beautiful as I wish my face was!</h2>
 
+
+<h2 align= "center"> About Me </h2>
+
+- 🌱 Currently working on: **Freelance Projects, UI/UX, Technical Content**
+
+- 📫 How to reach me: **[My email](janhvi52@gmail.com)**
+
+- 🖥 I'm also on: **[LinkedIn](https://www.linkedin.com/in/janhvi-singh-539989227/)**
+
+- 💻 You can also find me as: **[Technical Content Writer](https://bepractical.tech/)**
+
+- ⚡ Fun fact: ** I drink way too much coffee, but somehow my code is still bug-free**
+
+
+```
+"Hi there! I'm the wizard behind the code. Or maybe I'm just a regular person who's really good at Googling stuff."
+```
 
 
 <!--
