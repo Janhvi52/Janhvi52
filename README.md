@@ -1,6 +1,6 @@
 ### <h1 align= "center">Hello, fellow carbon-based life form!👋 </h1>
 
-<img src="https://user-images.githubusercontent.com/97719669/236609612-e5b8771c-8374-48ad-b319-2349388a1014.png"/>
+<p align="center"><img src="https://user-images.githubusercontent.com/97719669/236609612-e5b8771c-8374-48ad-b319-2349388a1014.png"/></p>
 
 <h2 align= "center"> Welcome to my GitHub profile, where my code is as beautiful as I wish my face was!</h2>
 <p align="center"><img src="https://user-images.githubusercontent.com/97719669/236619785-dc3900bc-24b4-4f20-a03d-d1f22b54ec5c.gif"/></p>
