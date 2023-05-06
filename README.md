@@ -1,5 +1,5 @@
 ### <h1 align="center">Hello, fellow carbon-based life form!👋</h1>
-<img src="https://user-images.githubusercontent.com/97719669/236609612-e5b8771c-8374-48ad-b319-2349388a1014.png"/>
+<img align="center" src="https://user-images.githubusercontent.com/97719669/236609612-e5b8771c-8374-48ad-b319-2349388a1014.png"/>
 
 
 
