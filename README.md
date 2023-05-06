@@ -23,18 +23,12 @@
 "Hi there! I'm the wizard behind the code. Or maybe I'm just a regular person who's really good at Googling stuff."
 ```
 
-
-<!--
-**Janhvi52/Janhvi52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Let's connect and discuss how we can collaborate on a project or how I can contribute to your organization or maybe we can discuss some chronicles or novels!</h3>
+<!-- <a href="https://twitter.com/_abelisaurus_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_abelisaurus_" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/janhvi-singh-539989227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janhvi-singh-539989227" height="30" width="40" /></a>
+<a href="[https://www.instagram.com/janhvi.__.singh/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janhvi.__.singh" height="30" width="40" /></a>
+<a href="https://medium.com/@janhvi52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@janhvi52" height="30" width="40" /></a>
+<!-- <a href="https://youtube.com/channel/UCQou4wzE0n2Ty1NRJauV1mQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abhilipsasahoo03" height="30" width="40" /></a> -->
+<!-- /
+<a href="https://www.hackerrank.com/abhilipsasahoo03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhilipsasahoo03" height="30" width="40" /></a>
+<a href="https://codepen.io/abhilipsasahoo03" target="blank"><img align="center" src="https://user-images.githubusercontent.com/80174214/159558971-aa952d69-7211-4e50-af05-fecc77566b01.png" alt="abhilipsasahoo03" height="35" width="35"/> -->
